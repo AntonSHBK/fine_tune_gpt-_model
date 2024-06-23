@@ -8,7 +8,7 @@ This project demonstrates the fine-tuning and application of a GPT-2 based model
 
 ## Articles
 
-- [Russian](docs\article_ru.md)
+- [Russian](docs/article_ru.md)
 
 ## Dataset
 

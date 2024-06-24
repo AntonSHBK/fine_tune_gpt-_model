@@ -1,4 +1,4 @@
-# Fine-tuning the GPT-2 model for generating descriptions of establishments based on type and rating
+# Fine-tuning the GPT-2 model for generating descriptions of establishments based on name, classes and rating
 
 <p align="center">
   <img src="./docs//preview.png" alt="Симуляция проекта" width="900">
